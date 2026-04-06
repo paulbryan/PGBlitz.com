@@ -2,10 +2,9 @@
 - hosts: localhost
   gather_facts: false
   tasks:
-
-    - name: "Cloning PGBlitz"
+    - name: 'Cloning PGBlitz'
       git:
-        repo: "https://github.com/PGBlitz/Install"
-        dest: "/pg/pgstage"
-        version: "v1"
+        repo: 'https://github.com/paulbryan/Install'
+        dest: '/pg/pgstage'
+        version: 'v1'
         force: yes
