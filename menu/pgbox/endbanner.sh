@@ -84,7 +84,7 @@ EOF
   This will result in files being copied instead of moved, and it will cause other issues.
 
   The mappings are on the download client settings (advanced setting), at the bottom of the page.
-  Visit https://github.com/PGBlitz/PGBlitz.com/wiki/Remote-Path-Mappings for more information.
+  Visit https://github.com/paulbryan/PGBlitz.com/wiki/Remote-Path-Mappings for more information.
 
 EOF
   fi
